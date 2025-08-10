@@ -5,6 +5,7 @@
 | ファイル名 | 機能 |
 |--- |--- |
 | all_reset.css | 装飾を初期化します |
-| all_reset.mini.css | 装飾を初期化します。計量版 |
+| all_reset.mini.css | 装飾を初期化します。軽量版 |
 | base_reset.css | 装飾を初期化して再度よく使われるスタイルを指定します |
-| base_reset.mini.css | 装飾を初期化して再度よく使われるスタイルを指定します。計量版 |
+| base_reset.mini.css | 装飾を初期化して再度よく使われるスタイルを指定します。軽量版 |
+
